@@ -1,42 +1,37 @@
-# AwesomeApp
+# Nombre del Proyecto: Gestor de Tareas
 
-Una aplicación increíble que hace cosas maravillosas. Este proyecto es una prueba para demostrar la estructura de un README bien organizado.
+## Descripción
 
-## 📦 Tabla de Contenidos
+Aplicación web para gestionar tareas diarias de forma eficiente. Permite crear, editar, eliminar y marcar tareas como completadas.
 
-1. [Introducción](#introducción)
-2. [Instalación](#instalación)
-3. [Configuración](#configuración)
-4. [Uso](#uso)
-5. [Pruebas](#pruebas)
-6. [Contribuciones](#contribuciones)
-7. [Licencia](#licencia)
+## Tabla de Contenido
 
----
-
-## 🚀 Introducción
-
-**AwesomeApp** es una herramienta desarrollada para facilitar tareas repetitivas de forma automatizada. Está pensada para desarrolladores y usuarios técnicos que deseen optimizar sus flujos de trabajo.
+1. Introducción  
+2. Instalación  
+3. Uso  
+4. Pruebas  
+5. Contribuciones  
+6. Licencia  
 
 ---
 
-## 🛠 Instalación
+## Introducción
+
+Este proyecto fue desarrollado como una herramienta para ayudar a los usuarios a organizar sus actividades del día a día. Inspirado en metodologías de productividad como GTD y Kanban.
+
+---
+
+## Instalación
 
 ### Requisitos Previos
 
-- Node.js >= 18
-- Git
-- npm
-
-### Dependencias
-
-- axios
-- express
-- dotenv
+- Node.js >= 16
+- npm >= 8
 
 ### Instrucciones
 
 ```bash
-git clone https://github.com/usuario/awesomeapp.git
-cd awesomeapp
+git clone https://github.com/usuario/gestor-tareas.git
+cd gestor-tareas
 npm install
+
